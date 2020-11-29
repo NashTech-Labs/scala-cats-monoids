@@ -1,4 +1,4 @@
-# Scala Cats - Semigroups
+# Scala Cats - Monoids
 
 - This template is about Monoids in Scala Cats. 
 - Cats provides a type class Monoid that extends Semigroup and adds a default or fallback value for the given type.
